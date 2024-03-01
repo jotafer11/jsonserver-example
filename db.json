@@ -1,0 +1,25 @@
+{
+    "inventory": [
+
+        {
+            "sku": "11140457/3756602330",
+            "qty": "20",
+            "name": "FIJACION PRIMER ACCESO E",
+            "price": "22"
+        },
+        {
+            "sku": "60454/0038300508",
+            "qty": "20",
+            "name": "MOTOR CALEFACCION ACTROS GRABDE ACTRIS E",
+            "price": "18"
+        },
+        {
+            "sku": "11080057/0004301269",
+            "qty": "20",
+            "name": "FILTRO RETARDADOR ACTROS E",
+            "price": "18"
+        }           
+
+
+    ]
+}
